@@ -28,6 +28,7 @@ The following is an analysis for campaign outcomes based on their launch dates a
 
 
 ### Analysis of Outcomes Based on Launch Date
+![This is an image](https://github.com/ShahroseShahzad/Kickstarter-Analysis/blob/main/Resources%20/Theater_Outcomes_vs_Launch.png)
 
 According to the data the most successful month for based on the launch date for the Kickstarter Campaign was May. We can see a downward trend from May onwards for all plays. Louise should start her 
 ### Analysis of Outcomes Based on Goals
@@ -38,11 +39,21 @@ According to the data the most successful month for based on the launch date for
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+The most successful months for theater were in summer during May, June and July.
+The failed trend is fairly consistent. It did not change drasticaly during the months the theater campaign had successful outcome.
+
 - What can you conclude about the Outcomes based on Goals?
+
+The most successful campaings were either with the goal under 1000, or between 35000 to 45000.
+There were no play campaings canceled 
 
 - What are some limitations of this dataset?
 
+There is not enough information to find out exactly what outside variables are effecting the trends so drastically. 
+
 - What are some other possible tables and/or graphs that we could create?
+We could create a pivot chart for plays 
+A Box Plot of the US Theater Plays by Goals and Pledged. Looking at the outcome of US plays in terms of overall Failed, Live, Successful and Cancelled.
 # Kickstarter-Analysis
 Performing Analysis on Kickstarter Data to Uncover Trends
 Project analysis
