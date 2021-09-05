@@ -30,10 +30,15 @@ The following is an analysis for campaign outcomes based on their launch dates a
 ### Analysis of Outcomes Based on Launch Date
 ![This is an image](https://github.com/ShahroseShahzad/Kickstarter-Analysis/blob/main/Resources%20/Theater_Outcomes_vs_Launch.png)
 
-According to the data the most successful month for based on the launch date for the Kickstarter Campaign was May. We can see a downward trend from May onwards for all plays. Louise should start her 
+According to the data the most successful month for based on the launch date for the Kickstarter Campaign was May. We can see a downward trend from May onwards for all plays. Louise should start her campaign for the month of May. 
 ### Analysis of Outcomes Based on Goals
+![This is an image](https://github.com/ShahroseShahzad/Kickstarter-Analysis/blob/main/Resources%20/Outcomes_vs_Goals.png)
+ According to the data the most successful campaign was either under $1000 or between $35000-$45000. When the campaign goal exceeded $45000, no one was interested to pledge for the campaign. We would need more information to analyze other variables causing the failed campaigns to be higher under the $35000 goal.
 
 ### Challenges and Difficulties Encountered
+We need more information to better analyise the graph to find out what ouside variables are causing the trend to move in a certain direction.
+
+ I faced a challange with creating SSH key for Git Hub. But with the help of T.A I was able to over come the issue.
 
 ## Results
 
@@ -52,8 +57,11 @@ There were no play campaings canceled
 There is not enough information to find out exactly what outside variables are effecting the trends so drastically. 
 
 - What are some other possible tables and/or graphs that we could create?
+
 We could create a pivot chart for plays 
 A Box Plot of the US Theater Plays by Goals and Pledged. Looking at the outcome of US plays in terms of overall Failed, Live, Successful and Cancelled.
+
+
 # Kickstarter-Analysis
 Performing Analysis on Kickstarter Data to Uncover Trends
 Project analysis
